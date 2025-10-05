@@ -31,6 +31,6 @@ README.md (This file)
 
 spotify_tracks_dataset.zip (The raw dataset used for the challenge)
 
-.zip (The main Jupyter Notebook with all our code and analysis)
+spotify_data_analysis_eda.zip (The main Jupyter Notebook with all our code and analysis)
 
 Subhajit_bera_spotify_challenge_presentation.zip (A summary of our findings and recommendations)
